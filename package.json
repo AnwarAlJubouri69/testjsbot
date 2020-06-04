@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Play Bot For Discord",
   "main": "index.js",
+  "engines": {
+  "node": "12.16.x"
+  }
   "dependencies": {
     "canvas": "github:Automattic/node-canvas#92b192447e9b9ae98da0f801e4e34afdd1dc1ef8",
     "dateformat": "^3.0.3",
